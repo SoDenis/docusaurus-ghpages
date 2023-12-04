@@ -1,5 +1,5 @@
 ---
-title: Markdown page examplel
+title: Markdown page example
 ---
 
 # Markdown page example
